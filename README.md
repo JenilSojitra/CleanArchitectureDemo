@@ -170,7 +170,9 @@ CleanArchitecture/
 
 ## 📞 Contact
 
-Your Name - [@JEMSBON00966575](https://x.com/@JEMSBON00966575)
+Twitter - [@JENILSOJITRA25](https://x.com/@JENILSOJITRA25)
+Linkdin - [JENILSOJITRA](https://www.linkedin.com/jenilsojitra)
+Whatsapp - +91 9512469351
 
 Project Link: [https://github.com/JenilSojitra/CleanArchitectureDemo.git](https://github.com/JenilSojitra/CleanArchitectureDemo.git)
 
